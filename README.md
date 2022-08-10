@@ -109,7 +109,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
   <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
 
 1. Clone o repositório
-  * `git clone git@github.com:betrybe/sd-021-a-mysql-all-for-one.git`.
+  * `git clone git@github.com:tryber/sd-021-a-mysql-all-for-one.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-021-a-mysql-all-for-one`
 
